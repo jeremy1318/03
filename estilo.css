@@ -1,0 +1,44 @@
+/* Estilos para la página web */
+body {
+    background-color: #b700ffa8;
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 36px;
+    color: #cecb14;
+}
+
+p {
+    color: blue;
+    font-size: medium;
+}
+
+/*Cambio de tamaño. Cambio de posicion (en el centro). la letra se vuelve mayuscula*/
+.encabezado {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 42px;
+}
+
+.parrafo {
+    text-align: justify;
+    text-transform: capitalize;
+    font-size: 24px;
+}
+
+#fondo {
+    background-color: #aa3b3b;
+    /* modificar el color a elección */
+}
+
+p a {
+    color: #333;
+    text-decoration: none;
+}
+.final {
+    font-style: italic;
+    color: #1eff00;
+    text-transform: lowercase;
+}
